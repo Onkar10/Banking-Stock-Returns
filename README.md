@@ -1,7 +1,7 @@
 # Banking-Stock-Returns
 A project on testing hypothesis about stock market and basic statistical modelling.
 
-<img src = "getty-stock-market-rising_large.jpg", height=100,width=100>
+![Banking Stocks](https://img.etimg.com/thumb/width-640,height-480,imgsize-189125,resizemode-1,msid-70339662/board-meetings-today-crisil-jk-paper-kec-international-niit-tech-lt-and-hul.jpg)
 
 ### INTRODUCTION
 Description of Data Sets:
